@@ -76,8 +76,8 @@ print(cap.get(cv2.CAP_PROP_FPS))
 cfps = (cap.get(cv2.CAP_PROP_FPS))
 
 
-title1 = 'PySpectrometer 2 - Spectrograph'
-title2 = 'PySpectrometer 2 - Waterfall'
+title1 = 'PHYS 211 - Spectrograph'
+title2 = 'PHYS 211 - Waterfall'
 stackHeight = 320+80+80 #height of the displayed CV window (graph+preview+messages)
 
 if dispWaterfall == True:
